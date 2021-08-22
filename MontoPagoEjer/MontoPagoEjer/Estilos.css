@@ -1,0 +1,24 @@
+﻿body {
+}
+.bloque1 {
+    box-sizing: border-box;
+}
+
+h4 {
+    display: inline-block;
+    margin-right: -4px;
+    box-sizing: border-box;
+    padding: 0.5em 1em;
+    width: 20%;
+    text-align:center;
+}
+.cuotasM {
+}
+.cuentaP {
+    display: flex;
+    text-align: center;
+    flex-wrap:wrap;
+}
+.cuentaP p {
+    width: 20%;
+}
